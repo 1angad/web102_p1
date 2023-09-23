@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *CommunityBoard*
 
 Submitted by: **Guranggad Singh**
 
 This web app: **Web102 Project 1**
 
-Time spent: **2* hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -26,7 +26,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/7pPXjBh.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
