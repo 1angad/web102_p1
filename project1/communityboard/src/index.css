@@ -1,0 +1,111 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+  background-color: #F88158;
+}
+
+.App {
+  color: #000;
+}
+
+h1 {
+  color: #fff;
+  font-size: 80px;
+  text-shadow: black 1px 0 10px;
+  padding-bottom: 18px;
+  margin-left: 50px
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between
+}
+
+.Card {
+  color: #000;
+  background-color: #fff;
+  padding-bottom: 20px;
+  box-shadow: 0 15px 25px #817c7c33;
+  font-size: medium;
+  border-radius: 14px;
+  backdrop-filter: blur(2px);
+  text-align: center;
+  margin-bottom: 30px;
+  height: 450px
+}
+
+.Card img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  margin-top: 10px
+}
+
+h4 {
+  margin-top: 0;
+  font-size: 18px
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: .6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #cc0606;
+  cursor: pointer;
+  transition: border-color .25s
+}
+
+button:hover {
+  border-color: #646cff
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
