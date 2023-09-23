@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![web102_p1](https://github.com/1angad/web102_p1/assets/96559688/5d091718-bc59-4f7f-a31b-45198f85ccbd)
 
 GIF created with ScreenToGif
 
